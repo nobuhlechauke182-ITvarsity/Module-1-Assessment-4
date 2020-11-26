@@ -1,0 +1,35 @@
+h1{
+    color:purple;
+    font-size:70px;
+    font-family:serif;
+    text-align:center;
+}
+
+h2{
+    color:darkgrey;
+    font-family:sans-serif;
+     text-align:right;   
+}
+
+h3{
+    font-family:cursive;
+}
+
+table{
+    font-family:cursive;
+    border-collapse:collapse;
+    border-color:blue;
+    border-width:auto;
+    background-color: blueviolet;
+}
+
+p{
+    font-weight:500;
+     text-decoration: :line-through;
+}
+
+th{
+    font-weight:bold;
+    background-color:blue;
+    color: black;
+}
